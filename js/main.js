@@ -36,8 +36,8 @@ $(function () {
     slidesToScroll: 1,
     arrows: false,
     dots: true,
-    // autoplay: true,
-    // autoplaySpeed: 2000
+    autoplay: true,
+    autoplaySpeed: 2000
   });
 
 
